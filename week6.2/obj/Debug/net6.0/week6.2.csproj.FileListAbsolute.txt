@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\bin\Debug\net6.0\week6.2.exe
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\bin\Debug\net6.0\week6.2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\bin\Debug\net6.0\week6.2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\bin\Debug\net6.0\week6.2.dll
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\bin\Debug\net6.0\week6.2.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.dll
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\refint\week6.2.dll
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\week6.2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\27\week6.2\week6.2\obj\Debug\net6.0\ref\week6.2.dll
